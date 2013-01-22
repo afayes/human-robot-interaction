@@ -1,0 +1,141 @@
+﻿<Project DefaultTargets="Build" ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{53B51230-2CD7-435B-8677-A3E24D134CD8}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ApplicationIcon>
+    </ApplicationIcon>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>NeuralNetwork</AssemblyName>
+    <AssemblyOriginatorKeyFile>
+    </AssemblyOriginatorKeyFile>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AForge.Neuro</RootNamespace>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <StartupObject>
+    </StartupObject>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>0.0</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>AForge.Neuro.xml</DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>..\..\Release\</OutputPath>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <CheckForOverflowUnderflow>false</CheckForOverflowUnderflow>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>AForge.Neuro.xml</DocumentationFile>
+    <DebugSymbols>false</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <NoStdLib>false</NoStdLib>
+    <NoWarn>
+    </NoWarn>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <TreatWarningsAsErrors>false</TreatWarningsAsErrors>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge">
+      <Name>AForge</Name>
+      <HintPath>.\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Data">
+      <Name>System.Data</Name>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NeuralNetwork Library\Activation Functions\BipolarSigmoidFunction.cs" />
+    <Compile Include="NeuralNetwork Library\Activation Functions\IActivationFunction.cs" />
+    <Compile Include="NeuralNetwork Library\Activation Functions\SigmoidFunction.cs" />
+    <Compile Include="NeuralNetwork Library\Activation Functions\ThresholdFunction.cs" />
+    <Compile Include="NeuralNetwork Library\Layers\ActivationLayer.cs" />
+    <Compile Include="NeuralNetwork Library\Layers\DistanceLayer.cs" />
+    <Compile Include="NeuralNetwork Library\Layers\Layer.cs" />
+    <Compile Include="NeuralNetwork Library\Learning\BackPropagationLearning.cs" />
+    <Compile Include="NeuralNetwork Library\Learning\DeltaRuleLearning.cs" />
+    <Compile Include="NeuralNetwork Library\Learning\ElasticNetworkLearning.cs" />
+    <Compile Include="NeuralNetwork Library\Learning\ISupervisedLearning.cs" />
+    <Compile Include="NeuralNetwork Library\Learning\IUnsupervisedLearning.cs" />
+    <Compile Include="NeuralNetwork Library\Learning\PerceptronLearning.cs" />
+    <Compile Include="NeuralNetwork Library\Learning\SOMLearning.cs" />
+    <Compile Include="NeuralNetwork Library\Networks\ActivationNetwork.cs" />
+    <Compile Include="NeuralNetwork Library\Networks\DistanceNetwork.cs" />
+    <Compile Include="NeuralNetwork Library\Networks\Network.cs" />
+    <Compile Include="NeuralNetwork Library\Neurons\ActivationNeuron.cs" />
+    <Compile Include="NeuralNetwork Library\Neurons\DistanceNeuron.cs" />
+    <Compile Include="NeuralNetwork Library\Neurons\Neuron.cs" />
+    <Compile Include="AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="NeuralNetworkGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NeuralNetworkGUI.Designer.cs">
+      <DependentUpon>NeuralNetworkGUI.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NeuralNetwork.cs">
+    </Compile>
+    <Compile Include="Program.cs" />
+    <None Include="Copyright.txt" />
+    <None Include="Version.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="NeuralNetworkGUI.resx">
+      <DependentUpon>NeuralNetworkGUI.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+</Project>

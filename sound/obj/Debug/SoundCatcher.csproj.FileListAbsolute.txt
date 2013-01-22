@@ -1,0 +1,12 @@
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\bin\Debug\SoundCatcher.exe.config
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\bin\Debug\SoundCatcher.exe
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\bin\Debug\SoundCatcher.pdb
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\obj\Debug\ResolveAssemblyReference.cache
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\obj\Debug\SoundCatcher.FormSettingsDialog.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\obj\Debug\SoundCatcher.FormOptionsDialog.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\obj\Debug\SoundCatcher.FormAboutDialog.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\obj\Debug\SoundCatcher.FormMain.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\obj\Debug\SoundCatcher.Properties.Resources.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\obj\Debug\SoundCatcher.csproj.GenerateResource.Cache
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\obj\Debug\SoundCatcher.exe
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\sound\obj\Debug\SoundCatcher.pdb

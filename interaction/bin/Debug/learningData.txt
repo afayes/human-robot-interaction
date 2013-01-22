@@ -1,0 +1,787 @@
+This version has all samples from sample version 1 and 2
+with extra angry__ samples (max_average__minimum is 26000)
+
+Angry/Loud samples
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31701.2
+max average = 31798
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31831.4
+max average = 31608.2
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31305.5
+max average = 31507.3
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31256.3
+max average = 31986.7
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32241
+max average = 31751.2
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32478.4
+max average = 31927.6
+
+
+min Per second = -32768
+max per second = 32767
+min average = -30548.9
+max average = 30060.8
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31911.6
+max average = 30935.8
+
+min Per second = -32768
+max per second = 32767
+min average = -32326
+max average = 31725
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32555.8
+max average = 32767
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31604.5
+max average = 31874.8
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32600.1
+max average = 32767
+
+
+min Per second = -32768
+max per second = 32767
+min average = -30747.3
+max average = 30407.2
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32406.6
+max average = 32693.8
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31943.1
+max average = 31478.6
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31884.2
+max average = 31486.9
+
+min Per second = -32768
+max per second = 32767
+min average = -31678.1
+max average = 30320.4
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32213.8
+max average = 31290.3
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31864.3
+max average = 30996
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32487.2
+max average = 32767
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31710.8
+max average = 30883.2
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31923.5
+max average = 31037.6
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32397
+max average = 32731.5
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32491.2
+max average = 32581
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31367.1
+max average = 32141.3
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31625.3
+max average = 31067.6
+
+
+min Per second = -32768
+max per second = 32767
+min average = -31240.1
+max average = 30916.6
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32161.8
+max average = 31755.4
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32393.5
+max average = 32750
+
+
+min Per second = -32768
+max per second = 32767
+min average = -32289.7
+max average = 32767
+
+min Per second = -32768
+max per second = 32767
+min average = -26289.7
+max average = 26767
+
+min Per second = -32768
+max per second = 32767
+min average = -26292.7
+max average = 26753
+
+min Per second = -32768
+max per second = 32767
+min average = -27789.7
+max average = 27367
+
+min Per second = -32768
+max per second = 32767
+min average = -27279.7
+max average = 27717
+
+min Per second = -32768
+max per second = 32767
+min average = -28789.7
+max average = 28967
+
+min Per second = -32768
+max per second = 32767
+min average = -28689.7
+max average = 28267
+
+min Per second = -32768
+max per second = 32767
+min average = -29989.7
+max average = 29367
+
+min Per second = -32768
+max per second = 32767
+min average = -29889.7
+max average = 29797
+
+_________________________________________________________________________________________
+
+Happy/Medium samples
+
+
+min Per second = -23334
+max per second = 25788
+min average = -14812.2
+max average = 14840.2
+
+
+min Per second = -27328
+max per second = 28660
+min average = -14900.4
+max average = 14787.5
+
+
+min Per second = -21434
+max per second = 24635
+min average = -15720.3
+max average = 17458.1
+
+
+min Per second = -25734
+max per second = 30656
+min average = -16984
+max average = 18057.1
+
+
+min Per second = -29433
+max per second = 32767
+min average = -20226.2
+max average = 21176
+
+
+min Per second = -25029
+max per second = 27038
+min average = -16469.6
+max average = 17392.3
+
+
+min Per second = -29856
+max per second = 32767
+min average = -18780.1
+max average = 20015.4
+
+
+min Per second = -28744
+max per second = 32767
+min average = -19278.3
+max average = 20022.5
+
+
+min Per second = -29839
+max per second = 28328
+min average = -16736.9
+max average = 16090.5
+
+
+min Per second = -28721
+max per second = 32767
+min average = -18973.8
+max average = 19731.8
+
+
+min Per second = -26002
+max per second = 30892
+min average = -18206.1
+max average = 20062.4
+
+
+min Per second = -26895
+max per second = 27504
+min average = -15338.5
+max average = 14316.7
+
+
+min Per second = -21711
+max per second = 25206
+min average = -14234.3
+max average = 15424.5
+
+
+min Per second = -25024
+max per second = 29300
+min average = -16063.5
+max average = 15596.2
+
+min Per second = -23548
+max per second = 29190
+min average = -16306.9
+max average = 16595.9
+
+
+min Per second = -28367
+max per second = 32767
+min average = -17819.2
+max average = 17633.1
+
+
+min Per second = -24634
+max per second = 28900
+min average = -16061.4
+max average = 16453.4
+
+min Per second = -22250
+max per second = 25521
+min average = -15766.6
+max average = 15271.3
+
+
+min Per second = -22528
+max per second = 27426
+min average = -16864.4
+max average = 17879.9
+
+min Per second = -27023
+max per second = 25061
+min average = -14684.2
+max average = 13757.5
+
+
+min Per second = -16869
+max per second = 17178
+min average = -12934.3
+max average = 13047.6
+
+
+min Per second = -21963
+max per second = 24903
+min average = -14738.5
+max average = 15008.3
+
+
+min Per second = -28414
+max per second = 28514
+min average = -15561.2
+max average = 15211.6
+
+
+min Per second = -19800
+max per second = 26161
+min average = -15128.4
+max average = 15577.5
+
+
+min Per second = -23659
+max per second = 27675
+min average = -16732.3
+max average = 16883.5
+
+
+min Per second = -22763
+max per second = 28123
+min average = -15957.4
+max average = 16120.8
+
+
+min Per second = -26008
+max per second = 32059
+min average = -17013.5
+max average = 17140.4
+
+
+min Per second = -26838
+max per second = 31601
+min average = -16351
+max average = 18142.5
+
+
+min Per second = -32502
+max per second = 32767
+min average = -18157
+max average = 17573.8
+
+
+min Per second = -32241
+max per second = 32767
+min average = -20200.5
+max average = 19986.6
+
+__________________________________________________________________________________________________
+
+Sad/Low Samples
+
+
+min Per second = -4944
+max per second = 5060
+min average = -3839.9
+max average = 3224.5
+
+
+min Per second = -5060
+max per second = 4564
+min average = -3889.5
+max average = 3378.7
+
+
+min Per second = -5555
+max per second = 5948
+min average = -4126.3
+max average = 3315
+
+
+min Per second = -5329
+max per second = 4951
+min average = -4020.7
+max average = 3349.1
+
+
+min Per second = -4436
+max per second = 3843
+min average = -3660.7
+max average = 3115
+
+
+min Per second = -6329
+max per second = 5901
+min average = -4159.6
+max average = 3579
+
+
+min Per second = -5895
+max per second = 5119
+min average = -4198
+max average = 3384.9
+
+
+min Per second = -5270
+max per second = 4172
+min average = -3848
+max average = 3252.2
+
+
+min Per second = -4360
+max per second = 4494
+min average = -3908.1
+max average = 2779.1
+
+
+min Per second = -4418
+max per second = 4909
+min average = -3826.5
+max average = 3197
+
+
+min Per second = -4863
+max per second = 3854
+min average = -3430.7
+max average = 2917.8
+
+
+min Per second = -7084
+max per second = 5880
+min average = -4793.5
+max average = 3896.1
+
+
+min Per second = -7140
+max per second = 6133
+min average = -5072.6
+max average = 4111.5
+
+
+min Per second = -8632
+max per second = 6459
+min average = -5287
+max average = 4342.5
+
+min Per second = -10006
+max per second = 8274
+min average = -5300.5
+max average = 4803.9
+
+
+min Per second = -8029
+max per second = 6510
+min average = -4970.5
+max average = 4639.7
+
+min Per second = -9350
+max per second = 8597
+min average = -6323
+max average = 5139.1
+
+
+min Per second = -9799
+max per second = 8081
+min average = -5576
+max average = 4555.3
+
+
+min Per second = -8144
+max per second = 8326
+min average = -5095.6
+max average = 4843.7
+
+
+min Per second = -6693
+max per second = 5417
+min average = -4735.8
+max average = 4258.6
+
+
+min Per second = -10084
+max per second = 9077
+min average = -6255.3
+max average = 5405.9
+
+
+min Per second = -10775
+max per second = 9258
+min average = -5504.8
+max average = 4659
+
+min Per second = -10695
+max per second = 9279
+min average = -5964.5
+max average = 5190.8
+
+
+min Per second = -8287
+max per second = 7139
+min average = -5717.2
+max average = 4644.5
+
+
+min Per second = -10781
+max per second = 9408
+min average = -6311.8
+max average = 5490.7
+
+
+min Per second = -10699
+max per second = 10369
+min average = -6436.7
+max average = 5586.2
+
+
+min Per second = -10709
+max per second = 8457
+min average = -6851.2
+max average = 5635.7
+
+
+min Per second = -8364
+max per second = 7508
+min average = -5919.7
+max average = 5067.8
+
+
+min Per second = -8188
+max per second = 6363
+min average = -5364.9
+max average = 4380.1
+
+
+min Per second = -10232
+max per second = 8244
+min average = -6533.7
+max average = 5393.7
+
+
+____________________________________________________________________________________
+
+Neutral/Silent samples
+
+
+min Per second = -854
+max per second = 812
+min average = -677.5
+max average = 604.3
+
+
+min Per second = -698
+max per second = 781
+min average = -597.7
+max average = 567.6
+
+
+min Per second = -867
+max per second = 843
+min average = -643.5
+max average = 671.6
+
+
+min Per second = -988
+max per second = 908
+min average = -731.5
+max average = 732.5
+
+
+min Per second = -1241
+max per second = 808
+min average = -699.8
+max average = 613.1
+
+
+min Per second = -757
+max per second = 670
+min average = -562.3
+max average = 522
+
+
+min Per second = -730
+max per second = 766
+min average = -577.7
+max average = 583.1
+
+
+min Per second = -963
+max per second = 919
+min average = -689.1
+max average = 687.5
+
+
+min Per second = -1040
+max per second = 1062
+min average = -812.9
+max average = 792.4
+
+
+min Per second = -924
+max per second = 947
+min average = -816.6
+max average = 786
+
+
+min Per second = -929
+max per second = 882
+min average = -648.9
+max average = 676.6
+
+
+min Per second = -951
+max per second = 834
+min average = -693.5
+max average = 712.3
+
+
+min Per second = -1290
+max per second = 1110
+min average = -899
+max average = 837.4
+
+
+min Per second = -925
+max per second = 927
+min average = -659.4
+max average = 684.9
+
+
+
+
+min Per second = -1698
+max per second = 1575
+min average = -1003.3
+max average = 1039.2
+
+
+min Per second = -1425
+max per second = 1315
+min average = -1027.3
+max average = 1007.8
+
+
+min Per second = -1943
+max per second = 1794
+min average = -1440.9
+max average = 1323
+
+
+min Per second = -1289
+max per second = 1257
+min average = -1004.7
+max average = 977.1
+
+
+
+min Per second = -970
+max per second = 1211
+min average = -710.1
+max average = 779.9
+
+
+min Per second = -1885
+max per second = 2605
+min average = -905
+max average = 1079.5
+
+___________________________________________________________________________
+
+Neutral/Silent samples at home
+ 
+min Per second = -248
+max per second = 222
+min average = -194
+max average = 169
+
+
+min Per second = -280
+max per second = 300
+min average = -184.5
+max average = 185.9
+
+
+min Per second = -380
+max per second = 303
+min average = -210.7
+max average = 196
+
+
+min Per second = -243
+max per second = 267
+min average = -193.8
+max average = 200.1
+
+
+min Per second = -250
+max per second = 256
+min average = -185.1
+max average = 180.7
+
+
+min Per second = -387
+max per second = 240
+min average = -221.2
+max average = 192.3
+
+
+min Per second = -219
+max per second = 200
+min average = -167.5
+max average = 166.9
+
+
+min Per second = -266
+max per second = 305
+min average = -194.4
+max average = 216.8
+
+
+min Per second = -294
+max per second = 297
+min average = -195.8
+max average = 201
+
+
+min Per second = -245
+max per second = 269
+min average = -183.1
+max average = 186.2
+
+
+min Per second = -251
+max per second = 205
+min average = -184
+max average = 183.4
+
+
+min Per second = -279
+max per second = 308
+min average = -239.2
+max average = 246.7

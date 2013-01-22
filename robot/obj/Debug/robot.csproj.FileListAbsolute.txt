@@ -1,0 +1,12 @@
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\obj\Debug\ResolveAssemblyReference.cache
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\bin\Debug\robot.pdb
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\obj\Debug\robot.pdb
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\obj\Debug\robot.csproj.GenerateResource.Cache
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\obj\Debug\robot.BayesianNetworkGUI.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\bin\Debug\AForge.dll
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\bin\Debug\NeuralNetwork.pdb
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\obj\Debug\robot.ControlRobotGUI.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\obj\Debug\robot.RobotIOGUI.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\bin\Debug\robot.dll
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\bin\Debug\NeuralNetwork.dll
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\robot\obj\Debug\robot.dll

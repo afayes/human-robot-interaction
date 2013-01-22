@@ -1,0 +1,8 @@
+Defensive=RightPush LeftChop
+Aggressive=Insult RightChop
+IntimidatingOrProtective=Laugh Roar Danger CalmDown 
+Intimacy=Hug
+Friendly=High5
+Interest=HeyBaby
+DefensiveOrIntimacy=RightPush LeftChop Hug
+Disinterest=Fetch RightKick Burp Oops

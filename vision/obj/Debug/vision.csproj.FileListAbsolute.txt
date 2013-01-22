@@ -1,0 +1,11 @@
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\bin\Debug\vision.pdb
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\obj\Debug\ResolveAssemblyReference.cache
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\obj\Debug\WebCam_Capture.WebCamCapture.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\obj\Debug\vision.csproj.GenerateResource.Cache
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\obj\Debug\vision.pdb
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\bin\Debug\Interop.Netica.dll
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\bin\Debug\robot.pdb
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\obj\Debug\vision.VisionGUI.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\bin\Debug\vision.dll
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\bin\Debug\robot.dll
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\vision\obj\Debug\vision.dll

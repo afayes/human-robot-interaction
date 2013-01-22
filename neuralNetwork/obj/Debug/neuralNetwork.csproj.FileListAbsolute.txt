@@ -1,0 +1,9 @@
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\neuralNetwork\bin\Debug\AForge.Neuro.xml
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\neuralNetwork\bin\Debug\AForge.dll
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\neuralNetwork\obj\Debug\ResolveAssemblyReference.cache
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\neuralNetwork\obj\Debug\neuralNetwork.csproj.GenerateResource.Cache
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\neuralNetwork\bin\Debug\NeuralNetwork.pdb
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\neuralNetwork\obj\Debug\NeuralNetwork.pdb
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\neuralNetwork\obj\Debug\neuralNetwork.NeuralNetworkGUI.resources
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\neuralNetwork\bin\Debug\NeuralNetwork.dll
+D:\COMPUTER SCIENCE\YEAR 3\PROJECT\CODE\Human Robot Interaction V1.0\neuralNetwork\obj\Debug\NeuralNetwork.dll

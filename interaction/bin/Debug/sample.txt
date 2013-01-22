@@ -1,0 +1,241 @@
+
+
+Sample name : 
+0). min = -49 max = 69
+1). min = -40 max = 69
+2). min = -55 max = 73
+3). min = -57 max = 53
+4). min = -39 max = 70
+5). min = -58 max = 44
+6). min = -57 max = 40
+7). min = -62 max = 55
+8). min = -48 max = 52
+9). min = -67 max = 54
+min Per second = -67
+max per second = 73
+min average = -53.2
+max average = 57.9
+
+Sample name : 
+0). min = -60 max = 46
+1). min = -46 max = 51
+2). min = -40 max = 56
+3). min = -52 max = 52
+4). min = -44 max = 68
+5). min = -57 max = 62
+6). min = -40 max = 49
+7). min = -63 max = 40
+8). min = -59 max = 52
+9). min = -55 max = 43
+min Per second = -63
+max per second = 68
+min average = -51.6
+max average = 51.9
+
+Sample name : 
+0). min = -41 max = 59
+1). min = -46 max = 56
+2). min = -78 max = 62
+3). min = -52 max = 75
+4). min = -50 max = 57
+5). min = -52 max = 52
+6). min = -59 max = 43
+7). min = -53 max = 46
+8). min = -53 max = 51
+9). min = -49 max = 46
+min Per second = -78
+max per second = 75
+min average = -53.3
+max average = 54.7
+
+Sample name : hello
+0). min = -73 max = 52
+1). min = -50 max = 50
+2). min = -44 max = 59
+3). min = -56 max = 45
+4). min = -50 max = 53
+5). min = -51 max = 60
+6). min = -47 max = 47
+7). min = -43 max = 50
+8). min = -77 max = 75
+9). min = -53 max = 58
+min Per second = -77
+max per second = 75
+min average = -54.4
+max average = 54.9
+
+Sample name : 
+0). min = -323 max = 311
+1). min = -270 max = 225
+2). min = -269 max = 233
+3). min = -182 max = 357
+4). min = -388 max = 390
+5). min = -285 max = 271
+6). min = -300 max = 381
+7). min = -249 max = 271
+8). min = -251 max = 217
+9). min = -194 max = 207
+min Per second = -388
+max per second = 390
+min average = -271.1
+max average = 286.3
+
+Sample name : 
+0). min = -41 max = 77
+1). min = -40 max = 36
+2). min = -64 max = 44
+3). min = -64 max = 55
+4). min = -52 max = 55
+5). min = -47 max = 43
+6). min = -47 max = 43
+7). min = -75 max = 45
+8). min = -60 max = 62
+9). min = -59 max = 64
+min Per second = -75
+max per second = 77
+min average = -54.9
+max average = 52.4
+
+Sample name : 
+0). min = -56 max = 39
+1). min = -54 max = 55
+2). min = -79 max = 46
+3). min = -44 max = 55
+4). min = -49 max = 65
+5). min = -56 max = 43
+6). min = -46 max = 59
+7). min = -66 max = 50
+8). min = -58 max = 60
+9). min = -69 max = 69
+min Per second = -79
+max per second = 69
+min average = -57.7
+max average = 54.1
+
+Sample name : 
+0). min = -55 max = 50
+1). min = -42 max = 53
+2). min = -52 max = 57
+3). min = -51 max = 52
+4). min = -58 max = 54
+5). min = -56 max = 50
+6). min = -63 max = 42
+7). min = -59 max = 57
+8). min = -63 max = 65
+9). min = -57 max = 66
+min Per second = -63
+max per second = 66
+min average = -55.6
+max average = 54.6
+
+Sample name : 
+0). min = -51 max = 31
+1). min = -54 max = 60
+2). min = -55 max = 52
+3). min = -56 max = 59
+4). min = -60 max = 55
+5). min = -43 max = 61
+6). min = -64 max = 41
+7). min = -42 max = 50
+8). min = -54 max = 49
+9). min = -38 max = 60
+min Per second = -64
+max per second = 61
+min average = -51.7
+max average = 51.8
+
+Sample name : a
+0). min = -74 max = 53
+1). min = -56 max = 60
+2). min = -75 max = 43
+3). min = -63 max = 57
+4). min = -55 max = 51
+5). min = -61 max = 48
+6). min = -52 max = 49
+7). min = -67 max = 41
+8). min = -47 max = 45
+9). min = -49 max = 65
+min Per second = -75
+max per second = 65
+min average = -59.9
+max average = 51.2
+
+Sample name : a
+0). min = -60 max = 46
+1). min = -71 max = 45
+2). min = -50 max = 53
+3). min = -58 max = 58
+4). min = -44 max = 47
+5). min = -44 max = 58
+6). min = -52 max = 48
+7). min = -46 max = 37
+8). min = -68 max = 58
+9). min = -45 max = 69
+min Per second = -71
+max per second = 69
+min average = -53.8
+max average = 51.9
+
+Sample name : 
+0). min = -61 max = 68
+1). min = -51 max = 41
+2). min = -44 max = 44
+3). min = -56 max = 45
+4). min = -62 max = 63
+5). min = -56 max = 40
+6). min = -51 max = 58
+7). min = -54 max = 64
+8). min = -69 max = 45
+9). min = -43 max = 57
+min Per second = -69
+max per second = 68
+min average = -54.7
+max average = 52.5
+
+Sample name : 
+0). min = -40 max = 47
+1). min = -43 max = 55
+2). min = -74 max = 53
+3). min = -48 max = 51
+4). min = -74 max = 42
+5). min = -70 max = 72
+6). min = -47 max = 36
+7). min = -76 max = 83
+8). min = -58 max = 77
+9). min = -55 max = 59
+min Per second = -76
+max per second = 83
+min average = -58.5
+max average = 57.5
+
+Sample name : asdads
+0). min = -50 max = 56
+1). min = -65 max = 67
+2). min = -54 max = 69
+3). min = -59 max = 44
+4). min = -46 max = 50
+5). min = -52 max = 60
+6). min = -60 max = 102
+7). min = -52 max = 42
+8). min = -62 max = 52
+9). min = -64 max = 50
+min Per second = -65
+max per second = 102
+min average = -56.4
+max average = 59.2
+
+Sample name : sample 1
+0). min = -16386 max = 15172
+1). min = -18838 max = 24180
+2). min = -19266 max = 24200
+3). min = -15686 max = 14829
+4). min = -10379 max = 13406
+5). min = -6761 max = 8969
+6). min = -454 max = 368
+7). min = -597 max = 1214
+8). min = -914 max = 724
+9). min = -583 max = 583
+min Per second = -19266
+max per second = 24200
+min average = -8986.4
+max average = 10364.5

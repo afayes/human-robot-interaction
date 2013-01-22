@@ -1,0 +1,178 @@
+// ~->[DNET-1]->~
+
+// File created by an unlicensed user using Netica 4.08 on Apr 11, 2009 at 18:34:58.
+
+bnet ChestClinic {
+AutoCompile = TRUE;
+autoupdate = TRUE;
+comment = "\n\
+	Chest Clinic                                       Text Copyright 1998 Norsys Software Corp.\n\n\
+	This Bayes net is also known as \"Asia\", and is an example which is popular \n\
+	for introducing Bayes nets.  It is from Lauritzen&Spiegelhalter88 (see below).\n\
+	It is for example purposes only, and should not be used for real decision making.\n\n\
+	It is a simplified version of a network that could be used to diagnose patients arriving\n\
+	at a clinic.  Each node in the network corresponds to some condition of the patient,\n\
+	for example, \"Visit to Asia\" indicates whether the patient recently visited Asia.\n\
+	To diagnose a patient, values are entered for nodes when they are known.  \n\
+	Netica then automatically re-calculates the probabilities for all the other nodes,\n\
+	based on the relationships between them.  The links between the nodes indicate how the\n\
+	relationships between the nodes are structured.\n\n\
+	The two top nodes are for predispositions which influence the likelihood of the diseases. \n\
+	Those diseases appear in the row below them.  At the bottom are symptoms of the diseases.\n\
+	To a large degree, the links of the network correspond to causation.  \n\
+	This is a common structure for diagnostic networks: predisposition nodes at the top, \n\
+	with links to nodes representing internal conditions and failure states, which in turn have\n\
+	links to nodes for observables.  Often there are many layers of nodes representing\n\
+	internal conditions, with links between them representing their complex inter-relationships.\n\n\
+	This network is from Lauritzen, Steffen L. and David J. Spiegelhalter (1988) \"Local \n\
+	computations with probabilities on graphical structures and their application to expert \n\
+	systems\" in Journal Royal Statistics Society B, 50(2), 157-194.\n\n\n\
+	TUTORIAL:            Basic Probabilistic Inference\n\
+	--------\n\n\
+	Keep in mind when doing tutorials that there is a great deal of assitance available\n\
+	from Netica's onscreen help, often about the exact networks of the tutorials.\n\
+	For this example, choose Help->Contents/Index, click on the Index tab, type in\n\
+	\"Asia\", and go to the example.\n\n\
+	All the information contained in a Bayes net can be observed by examining 3 things.\n\n\
+	First, there is the network structure, consisting of the nodes and their links,\n\
+	which you can see in the network diagram currently being displayed.\n\n\
+	Second, are the properties of each node, which you can see in their node dialog box,\n\
+	obtained by double-clicking on the node.\n\n\
+	Third, are the actual relationships between the nodes, which you can see by \n\
+	single-clicking on a node to select it, then choosing Relation->View/Edit.  \n\
+	The relationship may be probabilistic or functional.  For example, click on \n\
+	\"Lung Cancer\", and then choose Relation->View/Edit, to see its probabilistic relation \n\
+	with Smoking (the numbers are for example purposes only, and may not reflect reality).\n\
+	If you click on \"Tuberculosis or Cancer\", and choose Relation->View/Edit, you can see\n\
+	its functional dependence on Tuberculosis and Lung Cancer.\n\n\
+	To compile the network for use, click on its window to make it active,\n\
+	and choose Network->Compile. \n\n\
+	The appropriate data structures for fast inference have been built internally.  \n\
+	The bars in each node have darkened, indicating that they and the numbers beside them\n\
+	are now valid data.  The indicate the probabilities of each state of the node.\n\n\
+	Suppose we want to \"diagnose\" a new patient.  When she first enters the clinic,\n\
+	without having any information about her, we believe she has lung cancer with a\n\
+	probability of 5.5%, as can be seen on the Lung Cancer node (the number may be higher\n\
+	than that for the general population, because something has led her to the chest clinic).\n\n\
+	If she has an abnormal x-ray, that information can be entered by clicking on the word\n\
+	\"Abnormal\" of the \"XRay Result\" node (in a real-world Bayes net, you would probably\n\
+	be able to enter in exactly what way the x-ray was \"abnormal\").\n\n\
+	All the probability numbers and bars will change to take into account the finding.\n\
+	Now the probability that she has lung cancer has increased to 48.9%.\n\n\
+	If you further indicate that she has made a visit to asia recently, by clicking on\n\
+	\"Visit\", the probability of lung cancer decreases to 37.1%, because the abnormal XRay is \n\
+	partially explained away by a greater chance of Tuberculosis (which she could \n\
+	catch in Asia).  Old fashioned medical expert systems had problems with this kind of \n\
+	reasoning, since each of the findings \"Abnormal XRay\" and \"Visit to Asia\" by themselves\n\
+	increase or leave the same the probability of lung cancer.\n\n\
+	You can try entering and changing some more findings.  To remove a finding, simply click\n\
+	on its name again.  If you want to remove all the findings (a new patient has just walked\n\
+	in), choose Network->Remove Findings.\n\n\n\n\n\
+	";
+whenchanged = 1239471276;
+
+visual V1 {
+	defdispform = BELIEFBARS;
+	nodelabeling = TITLE;
+	NodeMaxNumEntries = 50;
+	nodefont = font {shape= "Arial"; size= 14;};
+	linkfont = font {shape= "Arial"; size= 9;};
+	windowposn = (7, -34, 1169, 458);
+	CommentWindowPosn = (6, 459, 817, 667);
+	resolution = 72;
+	drawingbounds = (1137, 730);
+	showpagebreaks = FALSE;
+	usegrid = TRUE;
+	gridspace = (6, 6);
+	NodeSet Node {BuiltIn = 1; Color = 0xc0c0c0;};
+	NodeSet Nature {BuiltIn = 1; Color = 0xf8eed2;};
+	NodeSet Deterministic {BuiltIn = 1; Color = 0xd3caa6;};
+	NodeSet Finding {BuiltIn = 1; Color = 0xa0a0a0;};
+	NodeSet Constant {BuiltIn = 1; Color = 0xffffff;};
+	NodeSet ConstantValue {BuiltIn = 1; Color = 0xffffb4;};
+	NodeSet Utility {BuiltIn = 1; Color = 0xffbdbd;};
+	NodeSet Decision {BuiltIn = 1; Color = 0xdee8ff;};
+	NodeSet Documentation {BuiltIn = 1; Color = 0xf0fafa;};
+	NodeSet Title {BuiltIn = 1; Color = 0xffffff;};
+	NodeSet node {Color = 0xffffff;};
+	NodeSet nature {Color = 0xffffff;};
+	NodeSet utility {Color = 0xffffff;};
+	NodeSet decision {Color = 0xffffff;};
+	NodeSet finding {Color = 0xffffff;};
+	NodeSet constant {Color = 0xffffff;};
+	NodeSet constant_set {Color = 0xffffff;};
+	PrinterSetting A {
+		margins = (1270, 1270, 1270, 1270);
+		landscape = FALSE;
+		magnify = 1;
+		};
+	};
+
+node VoiceTone {
+	kind = NATURE;
+	discrete = TRUE;
+	chance = CHANCE;
+	states = (Angry, Happy, Sad, Neutral);
+	parents = ();
+	probs = 
+		// Angry        Happy        Sad          Neutral      
+		  (0.25,        0.25,        0.25,        0.25);
+	numcases = 8;
+	whenchanged = 1236550330;
+	belief = (0.25, 0.25, 0.25, 0.25);
+	visual V1 {
+		center = (204, 102);
+		height = 1;
+		};
+	};
+
+node Proximity {
+	kind = NATURE;
+	discrete = TRUE;
+	chance = CHANCE;
+	states = (Far, Medium, Close);
+	parents = ();
+	probs = 
+		// Far          Medium       Close        
+		  (0.3333333,   0.3333333,   0.3333333);
+	numcases = 6;
+	whenchanged = 1236550412;
+	belief = (0.3333333, 0.3333333, 0.3333333);
+	visual V1 {
+		center = (522, 96);
+		height = 2;
+		};
+	};
+
+node RobotResponse {
+	kind = NATURE;
+	discrete = TRUE;
+	chance = DETERMIN;
+	states = (Defensive, Aggressive, IntimidatingOrProtective, Intimacy, Friendly, Interest, DefensiveOrIntimacy, Disinterest);
+	parents = (VoiceTone, Proximity);
+	functable = 
+		                     // VoiceTone Proximity 
+		 ((IntimidatingOrProtective,// Angry     Far       
+		   Aggressive,       // Angry     Medium    
+		   Defensive),       // Angry     Close     
+		  (Interest,         // Happy     Far       
+		   Friendly,         // Happy     Medium    
+		   Intimacy),        // Happy     Close     
+		  (Interest,         // Sad       Far       
+		   Friendly,         // Sad       Medium    
+		   Intimacy),        // Sad       Close     
+		  (Disinterest,      // Neutral   Far       
+		   Interest,         // Neutral   Medium    
+		   DefensiveOrIntimacy));// Neutral   Close     ;
+	whenchanged = 1239471276;
+	belief = (0.08333334, 0.08333334, 0.08333334, 0.1666667, 0.1666667, 0.25, 0.08333334, 0.08333334);
+	visual V1 {
+		center = (402, 306);
+		height = 3;
+		link 2 {
+			path = ((496, 143), (459, 207));
+			};
+		};
+	};
+ElimOrder = (VoiceTone, Proximity, RobotResponse);
+};
